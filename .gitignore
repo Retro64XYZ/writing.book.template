@@ -1,0 +1,9 @@
+*.log
+.DS_Store
+*.swp
+*.bak
+*.aux
+*.pdf
+*.toc
+*.epub
+*.html
